@@ -9,4 +9,4 @@ Git tracks changes
 Git tracks changes again
 
 
-Creating a new branch is quick.
+Creating more new branch are quick feature.
